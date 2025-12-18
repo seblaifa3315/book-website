@@ -14,8 +14,10 @@ html, body {
     --navbarTextHover: #c9a8b3; /* accent */
     --navbarSecondary: var(--navbarText);
     --navbarBorder: #374151;
+
     --background1: #221e28;
     --background2: #1a1625;
+    
     --blob1: #4a2d5c;
     --blob2: #c9a8b3; /* accent */
     --accent: #c9a8b3; /* accent */

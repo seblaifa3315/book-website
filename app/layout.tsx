@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   title: `${author.firstName} ${author.lastName}`,
   description: `${book.title}`,
   icons: {
-    icon: '/favicon.png',
+    icon: "/icons-v1/icon.png",
   },
 };
 
